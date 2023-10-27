@@ -1,0 +1,15 @@
+C:\Users\gongi\source\repos\Proyecto1Parte\Proyecto1Parte\obj\Debug\net6.0\Proyecto1Parte.csproj.AssemblyReference.cache
+C:\Users\gongi\source\repos\Proyecto1Parte\Proyecto1Parte\obj\Debug\net6.0\Proyecto1Parte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongi\source\repos\Proyecto1Parte\Proyecto1Parte\obj\Debug\net6.0\Proyecto1Parte.AssemblyInfoInputs.cache
+C:\Users\gongi\source\repos\Proyecto1Parte\Proyecto1Parte\obj\Debug\net6.0\Proyecto1Parte.AssemblyInfo.cs
+C:\Users\gongi\source\repos\Proyecto1Parte\Proyecto1Parte\obj\Debug\net6.0\Proyecto1Parte.csproj.CoreCompileInputs.cache
+C:\Users\gongi\source\repos\Proyecto1Parte\Proyecto1Parte\bin\Debug\net6.0\Proyecto1Parte.exe
+C:\Users\gongi\source\repos\Proyecto1Parte\Proyecto1Parte\bin\Debug\net6.0\Proyecto1Parte.deps.json
+C:\Users\gongi\source\repos\Proyecto1Parte\Proyecto1Parte\bin\Debug\net6.0\Proyecto1Parte.runtimeconfig.json
+C:\Users\gongi\source\repos\Proyecto1Parte\Proyecto1Parte\bin\Debug\net6.0\Proyecto1Parte.dll
+C:\Users\gongi\source\repos\Proyecto1Parte\Proyecto1Parte\bin\Debug\net6.0\Proyecto1Parte.pdb
+C:\Users\gongi\source\repos\Proyecto1Parte\Proyecto1Parte\obj\Debug\net6.0\Proyecto1Parte.dll
+C:\Users\gongi\source\repos\Proyecto1Parte\Proyecto1Parte\obj\Debug\net6.0\refint\Proyecto1Parte.dll
+C:\Users\gongi\source\repos\Proyecto1Parte\Proyecto1Parte\obj\Debug\net6.0\Proyecto1Parte.pdb
+C:\Users\gongi\source\repos\Proyecto1Parte\Proyecto1Parte\obj\Debug\net6.0\Proyecto1Parte.genruntimeconfig.cache
+C:\Users\gongi\source\repos\Proyecto1Parte\Proyecto1Parte\obj\Debug\net6.0\ref\Proyecto1Parte.dll
